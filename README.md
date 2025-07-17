@@ -1,3 +1,6 @@
+![Real example of this project](imgtask.png)
+
+
 # task-tracker
 
 ## Project setup
